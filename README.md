@@ -25,6 +25,13 @@ Live TV Streaming Platform
 The application follows the **DVB-I standard** as defined in:
 > [DVB BlueBook A177r7 - Service Discovery and Programme Metadata for DVB-I (TS 103 770 v1.3.1)](https://dvb.org/wp-content/uploads/2024/09/A177r7_Service-Discovery-and-Programme-Metadata-for-DVB-I_Interim-Draft_TS-103-770-v131_July-2025.pdf)
 
+
+---
+
+## 🎥 Demo Video
+
+▶️ (https://youtu.be/XP8xFTzcacI)
+
 ---
 
 ## ✨ Features
