@@ -1,11 +1,11 @@
 # streamhub
 <div align="center">
 Live TV Streaming Platform
-  <a href="https://github.com/hyundoll/streamhub/releases/download/Flutter/app-arm64-v8a-release.apk">
+  <a href="https://github.com/hyundoll/streamhub/releases/download/Flutter/app-release.apk">
     <img src="https://img.shields.io/badge/⬇️_Download-StreamHub_APK-FF4081?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
 <br><br>
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/hyundoll/streamhub/releases/download/Flutter/app-arm64-v8a-release.apk">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/hyundoll/streamhub/releases/download/Flutter/app-release.apk">
 
   
   ### Live TV Streaming Platform
