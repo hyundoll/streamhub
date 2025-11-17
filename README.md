@@ -10,7 +10,7 @@ Live TV Streaming Platform
   
   ### Live TV Streaming Platform
   
-  [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=flat&logo=flutter)](https://flutter.dev)
+  [![Flutter](https://img.shields.io/badge/Flutter-3.32+-02569B?style=flat&logo=flutter)](https://flutter.dev)
   [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat&logo=android)](https://www.android.com)
   [![DVB-I](https://img.shields.io/badge/DVB--I-Compliant-blue?style=flat)](https://dvb.org)
   [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)](LICENSE)
@@ -66,9 +66,9 @@ This application was created as an entry for the **DVB-I UI Competition**, demon
 
 ### Prerequisites
 
-- Flutter SDK (3.0 or higher)
+- Flutter SDK (3.32.8 or higher)
 - Android Studio / VS Code
-- Android SDK (API level 21+)
+- Android SDK 36 (API 35)
 - Dart SDK (included with Flutter)
 
 ### Installation
