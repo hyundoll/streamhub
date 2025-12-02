@@ -39,6 +39,8 @@ The application follows the **DVB-I standard** as defined in:
 - 📡 **DVB-I Compliant** - Implementation of DVB-I service discovery
 - 📺 **Live TV Streaming** - Watch live television channels in real-time
 - ⏪ Catch-up TV - Watch previously aired programs on-demand
+- 🔁 **Restart TV** - Jump back to the beginning of an ongoing broadcast
+- 🎞️ **Boxset Support** - Browse series, seasons, and episodes grouped by Boxset metadata
 - ⭐ Favorite Channels - Create and customize your own channel list with drag-and-drop reordering
 - 🔎 Smart Filtering - Filter live broadcasts by genre, age rating, accessibility, and other supported attributes
 - 📑 Channel Management - Organize channels in your preferred order
@@ -52,13 +54,13 @@ The application follows the **DVB-I standard** as defined in:
 
 ## 🏆 DVB-I UI Competition
 
-This application was created as an entry for the **DVB-I UI Competition**, demonstrating innovative user interface design and user experience for DVB-I compliant streaming services.
+This application is an official submission to the **DVB-I UI Competition**, demonstrating innovation in:
 
-### Competition Goals
-- Showcase best practices in DVB-I implementation
-- Deliver exceptional user experience for live TV streaming
-- Demonstrate innovative UI/UX design patterns
-- Prove compliance with DVB-I technical specifications
+- UI/UX design  
+- Programme navigation  
+- Enhanced accessibility  
+- Support for Boxsets, Restart, Catch-up  
+- DVB-I metadata compliance  
 
 ---
 
@@ -66,7 +68,7 @@ This application was created as an entry for the **DVB-I UI Competition**, demon
 
 ### Prerequisites
 
-- Flutter SDK (3.32.8 or higher)
+- Flutter SDK (3.32.8+)
 - Android Studio / VS Code
 - Android SDK 36 (API 35)
 - Dart SDK (included with Flutter)
