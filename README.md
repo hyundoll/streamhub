@@ -70,7 +70,7 @@ This application is an official submission to the **DVB-I UI Competition**, demo
 
 - Flutter SDK (3.32.8+)
 - Android Studio / VS Code
-- Android SDK 36 (API 35)
+- Android SDK 36 (API 35) - Fully compatible with Galaxy S25
 - Dart SDK (included with Flutter)
 
 ### Installation
