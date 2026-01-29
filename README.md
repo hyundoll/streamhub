@@ -179,7 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - DVB Project for the DVB-I specification
 - Flutter community for excellent resources
-- All contributors and testers
 
 ---
 
