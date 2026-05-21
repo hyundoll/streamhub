@@ -13,7 +13,7 @@ Live TV Streaming Platform
   [![Flutter](https://img.shields.io/badge/Flutter-3.32+-02569B?style=flat&logo=flutter)](https://flutter.dev)
   [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat&logo=android)](https://www.android.com)
   [![DVB-I](https://img.shields.io/badge/DVB--I-Compliant-blue?style=flat)](https://dvb.org)
-  [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)](LICENSE)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat)](LICENSE)
 </div>
 
 ---
