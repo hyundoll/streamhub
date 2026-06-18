@@ -120,11 +120,8 @@ flutter build apk --release
 
 - **Framework**: Flutter
 - **Language**: Dart
-- **Platform**: Android
-- **Architecture**: Clean Architecture
-- **State Management**: Provider / Riverpod
-- **Networking**: HTTP / Dio
-- **Streaming**: Video Player / ExoPlayer
+- **Platform**: Android / iOS (Please email me if you want to download the iOS app)
+- **Streaming**: ExoPlayer / BetterPlayer
 
 ---
 
