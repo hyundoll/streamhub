@@ -41,6 +41,7 @@ The application follows the **DVB-I standard** as defined in:
 - ⏪ Catch-up TV - Watch previously aired programs on-demand
 - 🔁 **Restart TV** - Jump back to the beginning of an ongoing broadcast
 - 🎞️ **Boxset Support** - Browse series, seasons, and episodes grouped by Boxset metadata
+- 💬 **Subtitle Support** - Display subtitles on live channels
 - ⭐ Favorite Channels - Create and customize your own channel list with drag-and-drop reordering
 - 🔎 Smart Filtering - Filter live broadcasts by genre, age rating, accessibility, and other supported attributes
 - 📑 Channel Management - Organize channels in your preferred order
@@ -109,7 +110,10 @@ flutter build apk --release
 <img width="270" height="585" alt="Screenshot_20251031_170117" src="https://github.com/user-attachments/assets/c9a1d248-834a-423d-a167-f192881b782e" />
 <img width="270" height="585" alt="Screenshot_20251031_170615" src="https://github.com/user-attachments/assets/c7a4baec-4934-40d8-ad89-a974ca0b0507" />
 <img width="270" height="585" alt="Screenshot_20251031_170801" src="https://github.com/user-attachments/assets/d0e608bb-a7da-4640-a351-7d14519e0080" />
- 
+<img width="270" height="585" alt="Screenshot_20260618_135427" src="https://github.com/user-attachments/assets/5e0d83ff-d511-4ffe-a1b3-cddab840d1c7" />
+<img width="270" height="585" alt="Screenshot_20260618_135040" src="https://github.com/user-attachments/assets/156d1b9c-fb5a-4869-a9ad-1cb9dc31804f" />
+<img width="270" height="585" alt="Screenshot_20260618_135322" src="https://github.com/user-attachments/assets/b5270d75-3183-4175-a747-6b16a949e6c5" />
+
 
 
 ## 🛠️ Technology Stack
