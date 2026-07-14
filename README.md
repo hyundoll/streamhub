@@ -4,8 +4,12 @@ Live TV Streaming Platform
   <a href="https://github.com/hyundoll/streamhub/releases/download/Flutter/app-release.apk">
     <img src="https://img.shields.io/badge/⬇️_Download-StreamHub_APK-FF4081?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
+  <a href="https://testflight.apple.com/join/mRB5TeBw">
+    <img src="https://img.shields.io/badge/⬇️_Download-StreamHub_iOS_TestFlight-007AFF?style=for-the-badge&logo=apple" alt="Download iOS TestFlight"/>
+  </a>
 <br><br>
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/hyundoll/streamhub/releases/download/Flutter/app-release.apk">
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://testflight.apple.com/join/mRB5TeBw">
 
   
   ### Live TV Streaming Platform
