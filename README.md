@@ -24,7 +24,7 @@ Live TV Streaming Platform
 
 ## 📺 About
 
-**StreamHub** is a Live TV streaming application built with Flutter for Android devices. This app was specifically developed for the **DVB-I UI Competition**, implementing the DVB-I specification for service discovery and programme metadata.
+**StreamHub** is a Live TV streaming application built with Flutter for mobile devices. This app was specifically developed for the **DVB-I UI Competition**, implementing the DVB-I specification for service discovery and programme metadata.
 
 The application follows the **DVB-I standard** as defined in:
 > [DVB BlueBook A177r7 - Service Discovery and Programme Metadata for DVB-I (TS 103 770 v1.3.1)](https://dvb.org/wp-content/uploads/2024/09/A177r7_Service-Discovery-and-Programme-Metadata-for-DVB-I_Interim-Draft_TS-103-770-v131_July-2025.pdf)
