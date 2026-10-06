@@ -54,7 +54,7 @@ The application follows the **DVB-I standard** as defined in:
 - 🔍 **Service Discovery** - Automatic channel discovery and metadata retrieval
 - 📊 **Programme Metadata** - Rich EPG (Electronic Programme Guide) information
 - ⚡ **High Performance** - Smooth streaming with minimal latency
-- 🖥️ **Cast to TV or Big Screen - Watch Live content on your TV
+- 🖥️ **Cast to TV or Big Screen** - Watch Live content on your TV
 
 ---
 
